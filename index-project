@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset='utf-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<title>MY PROJECT ♥</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<link rel='stylesheet' type='text/css' media='screen' href='index-projectcss.css'>
+	<script src='index-projectjs.js'></script>
+</head>
+<body>
+<h1> <em> ► All of My Project !   </em> </h1>
+<br>
+<h7><em> My &nbsp; Working</em> </h7>
+<br>
+<br>
+<br>
+
+<div class="grid-project">
+    <div id="main1"> 
+        <a href="index-recipe.html"><h2> HTML : Recipe </h2></a>
+        <br>
+        <br>
+        <br>
+        <a href="index-animation.html"> <h2>&nbsp;&nbsp;&nbsp; Animation &nbsp;&nbsp;&nbsp;</h2></a>
+    </div>
+
+    
+    <div id="main2">
+        <a href="index-blogger.html"> <h2> HTML : Blogger </h2></a>
+        <br>
+        <br>
+        <br>
+        <a href="index-sticker.html"><h2>&nbsp;&nbsp;&nbsp; Sticker Line &nbsp;&nbsp;&nbsp;</h2> </a>
+    </div>
+
+
+    <div id="main3">
+        <a href="index-game.html"><h2> HTML : Square game &nbsp;</h2>  </a>
+        <br>
+        <br>
+        <br>
+        <a href="index-smartfarm.html"> <h2> Arduino : Smart Farm</h2></a>
+    </div>
+
+    <div id="main4">   
+        <a href="index-register.html"> <h2> HTML : Register Login </h2></a>
+        <br>
+        <br>
+        <br>
+        <a href="index-smartroom.html"><h2 > Arduino : Smart Room</h2> </a>
+    </div>
+
+
+</div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h6><a href="index.html"> Back to HOME </a></h6>
+        <hr>
+        </body>
+      
