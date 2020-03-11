@@ -20,11 +20,11 @@
     <br>
     <br>
     <br>
-    <a href="file:///C:/Users/Acer/Desktop/web%20programming%20design/midtermpro/2.profile.html"><p>My Profile</p></a>
+    <a href="index-profile.html"><p>My Profile</p></a>
 
-    <a href="file:///C:/Users/Acer/Desktop/web%20programming%20design/midtermpro/3.skill.html"><p>Skill</p></a>
+    <a href="index-skill.html"><p>Skill</p></a>
     
-    <a href="file:///C:/Users/Acer/Desktop/web%20programming%20design/midtermpro/4.project.html"><p>Project</p></a>
+    <a href="index-project.html"><p>Project</p></a>
 </div>
 
 <div class="grid-index">
